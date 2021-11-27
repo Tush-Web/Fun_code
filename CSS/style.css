@@ -1,0 +1,88 @@
+/* Theme:abc
+Developer:Tushar
+Contact:tushar10207@gmail.com */
+h1 {
+  font-style: italic;
+  text-align: center;
+  color: aqua;
+  font-weight: 800;
+}
+body {
+  background-image: url(image.gg.jfif);
+  background-repeat: no-repeat;
+  background-size: 1500px 1500px;
+}
+.p-5 {
+  color: rgb(243, 10, 193);
+  text-indent: 70px;
+  line-height: 50px;
+text-transform: capitalize;  
+letter-spacing: 1px;
+word-spacing: 2px;
+}
+.hello {
+  padding: 20px;
+  margin: 50px;
+  color: rgb(0, 255, 13);
+  width: 500px;
+  height: 200px;
+  border: 2px solid rgb(10, 236, 48);
+}
+.p-1 {
+  color: cadetblue;
+  text-align: center;
+}
+a {
+  color: cyan;
+}
+a:hover {
+  color: darkgrey;
+  background-color: darkslategray;
+}
+.box {
+  width: 150px;
+  height: 150px;
+  border: 1px solid rgb(71, 6, 250);
+  margin: 0 auto;
+}
+.bg-green {
+  float: left;
+  background-color: green;
+}
+.bg-yellow {
+  float: left;
+  background-color: yellow;
+}
+.bg-red {
+  float: left;
+  background-color: red;
+}
+.box-container {
+  display: flex;
+}
+.box-container div {
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  color: rgb(255, 94, 0);
+  width: 350px;
+  height: 350px;
+  border: 1px solid rgb(38, 0, 255);
+}
+.bg-yellow-er {
+  background-color: gold;
+}
+.p-4 {
+  color: lawngreen;
+  border: 1px solid rgb(226, 235, 222);
+  text-align: center;
+}
+.h-2 {
+  padding: 20px;
+  margin: 20px;
+  color: maroon;
+  border: 1px solid rgb(7, 250, 27);
+  border-radius: 10px 50px 10px 50px;
+  text-align: center;
+  text-transform: capitalize;
+}
