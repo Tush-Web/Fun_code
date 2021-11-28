@@ -8,7 +8,7 @@ h1 {
   font-weight: 800;
 }
 body {
-  background-image: url(image.gg.jfif);
+  background-image: url("image.gg.jfif");
   background-repeat: no-repeat;
   background-size: 1500px 1500px;
 }
@@ -29,7 +29,7 @@ word-spacing: 2px;
   border: 2px solid rgb(10, 236, 48);
 }
 .p-1 {
-  color: cadetblue;
+  color: rgb(17, 8, 148);
   text-align: center;
 }
 a {
