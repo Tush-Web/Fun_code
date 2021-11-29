@@ -1,0 +1,13 @@
+.mmk {
+  height: 100px;
+  padding: 50px;
+  margin: 0px;
+  color: rgb(5, 5, 82);
+  border: 1px solid rgb(255, 255, 255);
+  text-align: center;
+  text-shadow: 11px -7px 4px rgba(66, 58, 49, 0.81);
+}
+.mmmk {
+  font-size: 50px;
+}
+.nnk { border: 1px solid rgb(216, 15, 15); height: 40%; width: 30%;}
