@@ -16,9 +16,9 @@ body {
   color: rgb(243, 10, 193);
   text-indent: 70px;
   line-height: 50px;
-text-transform: capitalize;  
-letter-spacing: 1px;
-word-spacing: 2px;
+  text-transform: capitalize;
+  letter-spacing: 1px;
+  word-spacing: 2px;
 }
 .hello {
   padding: 20px;
@@ -85,4 +85,13 @@ a:hover {
   border-radius: 10px 50px 10px 50px;
   text-align: center;
   text-transform: capitalize;
+}
+.h-7 {
+  color: rgb(24, 70, 224);
+  text-shadow: 5px -9px 4px rgba(230, 21, 21, 0.78);
+}
+.div-kk { color: yellow; background-color: crimson; border:1px solid red; padding: 50px; margin: 200px;
+  -webkit-box-shadow: 65px 28px 19px 6px rgba(240, 228, 9, 0.87);
+  -moz-box-shadow: 65px 28px 19px 6px rgba(240, 228, 9, 0.87);
+  box-shadow: 65px 28px 19px 6px rgba(240, 228, 9, 0.87);
 }
