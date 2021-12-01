@@ -2,12 +2,61 @@
   height: 100px;
   padding: 50px;
   margin: 0px;
-  color: rgb(5, 5, 82);
-  border: 1px solid rgb(255, 255, 255);
+  color: rgb(29, 0, 192);
   text-align: center;
-  text-shadow: 11px -7px 4px rgba(66, 58, 49, 0.81);
+  text-shadow: 11px -7px 4px rgba(77, 67, 59, 0.81);
 }
 .mmmk {
   font-size: 50px;
 }
-.nnk { border: 1px solid rgb(216, 15, 15); height: 40%; width: 30%;}
+.nNnk {
+  border: 1px solid rgb(216, 15, 15);
+  height: 600px;
+  width: 40%;
+  box-shadow: 26px -27px 20px -3px rgba(194, 189, 189, 0.75);
+  -webkit-box-shadow: 26px -27px 20px -3px rgba(74, 64, 64, 0.75);
+  -moz-box-shadow: 26px -27px 20px -3px rgba(74, 64, 64, 0.75);
+  border-radius: 70px 70px 70px 70px;
+  float: left;
+}
+.p-77 {
+  color: azure;
+  text-transform: capitalize;
+  text-align: center;
+  font-size: 40px;
+  text-shadow: 11px -7px 4px rgba(66, 58, 49, 0.81);
+}
+.p-99 {
+  margin-right: 125px;
+  margin-top: 50px;
+  float: right;
+  border: 1px solid rgb(226, 235, 222);
+  height: 550px;
+  width: 550px;
+  border-radius: 30px 30px 30px 30px;
+}
+.div-00 {
+  font-size: 20px;
+}
+.l1 {
+  color: crimson;
+}
+.l2 {
+  color: rgb(16, 191, 245);
+}
+.l3 {
+  color: rgb(17, 0, 255);
+}
+.l4 {
+  color: indigo;
+}
+.l5 {
+  color: lime;
+}
+.l6 {
+  color: orangered;
+}
+.nnb {
+  font-family: "Lobster", cursive;
+  font-size: 60px;
+}
