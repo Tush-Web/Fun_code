@@ -2,7 +2,7 @@
   height: 100px;
   padding: 50px;
   margin: 0px;
-  color: rgb(29, 0, 192);
+ 
   text-align: center;
   text-shadow: 11px -7px 4px rgba(77, 67, 59, 0.81);
 }
@@ -59,4 +59,5 @@
 .nnb {
   font-family: "Lobster", cursive;
   font-size: 60px;
+  
 }
