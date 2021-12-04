@@ -10,7 +10,7 @@ h1 {
 body {
   background-image: url("image.gg.jfif");
   background-repeat: no-repeat;
-  background-size: 1500px 1500px;
+  background-size: 2000px 2000px;
 }
 .p-5 {
   color: rgb(243, 10, 193);
@@ -95,3 +95,7 @@ a:hover {
   -moz-box-shadow: 65px 28px 19px 6px rgba(240, 228, 9, 0.87);
   box-shadow: 65px 28px 19px 6px rgba(240, 228, 9, 0.87);
 }
+.green-box { position: relative; border: 1px solid black; width: 250px; height: 250px; background-color: rgb(14, 55, 236); margin: auto;}
+.blue-box {border: 1px solid black ; background-color: cornflowerblue; height: 50px; width: 50px; position: absolute; top: 40px; left: 40px;}
+.red-box {border: 1px solid black; background-color: cornflowerblue; height: 50px; width: 50px; position: absolute; top: 40px; left: 160px;}
+.h-box {border: 1px solid black; background-color: cornflowerblue; height: 50px; width: 145px; position: absolute; top: 140px; left: 50px;} 
