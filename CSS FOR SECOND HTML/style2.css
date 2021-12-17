@@ -32,10 +32,10 @@ body {
   color: rgb(17, 8, 148);
   text-align: center;
 }
-a {
+.ggn{
   color: cyan;
 }
-a:hover {
+.ggn:hover {
   color: darkgrey;
   background-color: darkslategray;
 }
